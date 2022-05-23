@@ -1,3 +1,13 @@
+// npm init -y
+// npm install axios express cors
+// git init
+// git add .
+// git commit -m"initial commit"
+// {CODE FROM GITHUB}
+// req = request
+// res = response
+// 
+
 const express = require("express");
 
 const cors = require("cors");
